@@ -1,6 +1,6 @@
 # Using Data Visualization 
 
-This notebook is practicing and implamenting some data visualization to help a friend with her thesis.  She collected all the data herself and wanted to find a way to showcase her findings.
+This notebook is practicing and implementing some data visualization to help a friend with her thesis.  She collected all the data herself and wanted to find a way to showcase her findings.
 
 - Matplotlib.pyplot
 - Seaborn
